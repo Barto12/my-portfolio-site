@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Software Developer | Frontend & Cloud Specialist | Salesforce Consultant | Fullstack developer | Software engineer";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Front-end development",
+  "Backend development",
+  "cloud computing",
+  "Salesfroce",
   "Mobile user interfaces",
-  "Graphic design",
+  "Ux engineering",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a results-driven software developer with expertise in front-end development (React, JavaScript) and cloud platforms (Google Cloud, Azure, AWS). My diverse experience spans industries like automotive, retail, and technology, where I’ve optimized digital solutions and enhanced user experiences.";
 
 const About = () => {
   return (
