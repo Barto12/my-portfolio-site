@@ -31,13 +31,13 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Banco Simulado app for IOS devices",
+    title: "Banco Simulado app for IOS devices Iphone",
     description:
       "App desarrollada en Swift que muestra las funciones basicas de un app bancaria, como inicio de sesión, saldo, activar/desactivar tarjeta, y los movimientos bancarios realizados ",
     url: "https://github.com/Barto12/BancoSimuladoApp",
   },
   {
-    title: "StockMarket app for IOS devices",
+    title: "StockMarket app for IOS devices Iphone",
     description:
       "App desarrollada en Swift que permite al usuario conocer el precio de una accion en el mercado de valores.",
     url: "https://github.com/Barto12/StockMarket",

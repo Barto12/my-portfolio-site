@@ -29,10 +29,10 @@ const siteProps = {
   email: "rosasnazir@gmail.com",
   gitHub: "barto12",
   instagram: "nazir_12",
-  linkedIn: "",
+  linkedIn: "nazir-rosas",
   medium: "",
   twitter: "nazirrosas",
-  youTube: "",
+  youTube: "nazirrosas",
 };
 
 const primaryColor = "#4E567E";

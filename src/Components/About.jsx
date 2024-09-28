@@ -37,6 +37,8 @@ const skillsList = [
   "Salesfroce",
   "Mobile user interfaces",
   "Ux engineering",
+  "web development",
+  "Machine learning",
 ];
 
 /**
