@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "StockMarket app for IOS devices Iphone",
     description:
-      "App desarrollada en Swift que permite al usuario conocer el precio de una accion en el mercado de valores.",
+      "App desarrollada en Swift que permite al usuario conocer el precio de una accion en el mercado de valores, utiliza la app de stockmarket.",
     url: "https://github.com/Barto12/StockMarket",
   },
   {
