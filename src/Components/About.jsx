@@ -39,6 +39,7 @@ const skillsList = [
   "Ux engineering",
   "web development",
   "Machine learning",
+  "Data science",
 ];
 
 /**
